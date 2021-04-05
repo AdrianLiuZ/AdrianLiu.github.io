@@ -1,10 +1,12 @@
 # Adrian Liu's Page
 ![Pic of Me](Lab1Pic.jpg) 
 > I'm the one in the top middle
+
 ```
 Taken 12/18/2020
 Location: San Francisco, Land's End
 ```
+
 ## About Me
 Hello! I'm **Adrian Liu** and I'm currently a second year `Math-CS` major at UCSD. These are some hobbies that I love (in no particular order):
 - Baking
